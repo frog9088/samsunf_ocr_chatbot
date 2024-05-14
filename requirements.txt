@@ -1,0 +1,11 @@
+streamlit
+streamlit_chat
+pypdf
+fastembed
+chardet
+langchain
+chromadb
+transformers
+sentence-transformers
+requests
+urllib3
